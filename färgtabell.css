@@ -1,0 +1,32 @@
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 500px;
+    height: 150px;
+}
+
+caption{
+    caption-side: bottom;
+    font-size: 35px;
+}
+
+.blå{
+    background-color: rgb(51, 123, 230);
+}
+
+.röd{
+    background-color: red;
+}
+
+.gul{
+    background-color: yellow;
+}
+
+.svart{
+    background-color: black;
+}
+
+.grön{
+    background-color: rgb(12, 168, 12);
+}
